@@ -802,6 +802,117 @@
       "defaultStanding": 9
     },
     {
+{
+  "teams": [
+    {
+      "id": 78,
+      "name": "Stade de Reims",
+      "league": "Ligue 1",
+      "stadium": "Stade Auguste Delaune",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 18
+    },
+    {
+      "id": 79,
+      "name": "AC Ajaccio",
+      "league": "Ligue 1",
+      "stadium": "Stade François Coty",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 19
+    },
+    {
+      "id": 80,
+      "name": "Troyes AC",
+      "league": "Ligue 1",
+      "stadium": "Stade de l'Aube",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 20
+    },
+    {
+      "id": 81,
+      "name": "Paris FC",
+      "league": "Ligue 2",
+      "stadium": "Stade Charléty",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 1
+    },
+    {
+      "id": 82,
+      "name": "Le Havre AC",
+      "league": "Ligue 2",
+      "stadium": "Stade Océane",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 2
+    },
+    {
+      "id": 83,
+      "name": "Stade Brestois",
+      "league": "Ligue 2",
+      "stadium": "Stade Francis-Le Blé",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 3
+    },
+    {
+      "id": 84,
+      "name": "AC Ajaccio",
+      "league": "Ligue 2",
+      "stadium": "Stade François Coty",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 4
+    },
+    {
+      "id": 85,
+      "name": "FC Sochaux-Montbéliard",
+      "league": "Ligue 2",
+      "stadium": "Stade Bonal",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 5
+    },
+    {
+      "id": 86,
+      "name": "FC Grenoble Alpes",
+      "league": "Ligue 2",
+      "stadium": "Stade des Alpes",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 6
+    },
+    {
+      "id": 87,
+      "name": "Dunkerque",
+      "league": "Ligue 2",
+      "stadium": "Stade Marcel-Tribut",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 7
+    },
+    {
+      "id": 88,
+      "name": "Nîmes Olympique",
+      "league": "Ligue 2",
+      "stadium": "Stade des Costières",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 8
+    },
+    {
+      "id": 89,
+      "name": "Amiens SC",
+      "league": "Ligue 2",
+      "stadium": "Stade de la Licorne",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 9
+    },
+    {
       "id": 90,
       "name": "Quevilly-Rouen Métropole",
       "league": "Ligue 2",

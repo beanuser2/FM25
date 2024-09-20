@@ -693,9 +693,7 @@
       "trophyHistory": [],
       "defaultStanding": 17
     },
-{
-  "teams": [
-    {
+ {
       "id": 78,
       "name": "Stade de Reims",
       "league": "Ligue 1",
@@ -723,7 +721,7 @@
       "defaultStanding": 20
     },
     {
-      "id": 1,
+      "id": 81,
       "name": "Paris FC",
       "league": "Ligue 2",
       "stadium": "Stade Charléty",
@@ -732,7 +730,7 @@
       "defaultStanding": 1
     },
     {
-      "id": 2,
+      "id": 82,
       "name": "Le Havre AC",
       "league": "Ligue 2",
       "stadium": "Stade Océane",
@@ -741,7 +739,7 @@
       "defaultStanding": 2
     },
     {
-      "id": 3,
+      "id": 83,
       "name": "Stade Brestois",
       "league": "Ligue 2",
       "stadium": "Stade Francis-Le Blé",
@@ -750,7 +748,7 @@
       "defaultStanding": 3
     },
     {
-      "id": 4,
+      "id": 84,
       "name": "AC Ajaccio",
       "league": "Ligue 2",
       "stadium": "Stade François Coty",
@@ -759,7 +757,7 @@
       "defaultStanding": 4
     },
     {
-      "id": 5,
+      "id": 85,
       "name": "FC Sochaux-Montbéliard",
       "league": "Ligue 2",
       "stadium": "Stade Bonal",
@@ -768,7 +766,7 @@
       "defaultStanding": 5
     },
     {
-      "id": 6,
+      "id": 86,
       "name": "FC Grenoble Alpes",
       "league": "Ligue 2",
       "stadium": "Stade des Alpes",
@@ -777,7 +775,7 @@
       "defaultStanding": 6
     },
     {
-      "id": 7,
+      "id": 87,
       "name": "Dunkerque",
       "league": "Ligue 2",
       "stadium": "Stade Marcel-Tribut",
@@ -786,7 +784,7 @@
       "defaultStanding": 7
     },
     {
-      "id": 8,
+      "id": 88,
       "name": "Nîmes Olympique",
       "league": "Ligue 2",
       "stadium": "Stade des Costières",
@@ -795,7 +793,7 @@
       "defaultStanding": 8
     },
     {
-      "id": 9,
+      "id": 89,
       "name": "Amiens SC",
       "league": "Ligue 2",
       "stadium": "Stade de la Licorne",
@@ -804,7 +802,7 @@
       "defaultStanding": 9
     },
     {
-      "id": 10,
+      "id": 90,
       "name": "Quevilly-Rouen Métropole",
       "league": "Ligue 2",
       "stadium": "Stade Robert-Diochon",
@@ -813,7 +811,7 @@
       "defaultStanding": 10
     },
     {
-      "id": 11,
+      "id": 91,
       "name": "Valenciennes FC",
       "league": "Ligue 2",
       "stadium": "Stade du Hainaut",
@@ -822,7 +820,7 @@
       "defaultStanding": 11
     },
     {
-      "id": 12,
+      "id": 92,
       "name": "USL Dunkerque",
       "league": "Ligue 2",
       "stadium": "Stade Marcel-Tribut",
@@ -831,7 +829,7 @@
       "defaultStanding": 12
     },
     {
-      "id": 13,
+      "id": 93,
       "name": "FC Paris",
       "league": "Ligue 2",
       "stadium": "Stade Charléty",
@@ -840,7 +838,7 @@
       "defaultStanding": 13
     },
     {
-      "id": 14,
+      "id": 94,
       "name": "Chamois Niortais FC",
       "league": "Ligue 2",
       "stadium": "Stade René Gaillard",
@@ -849,7 +847,7 @@
       "defaultStanding": 14
     },
     {
-      "id": 15,
+      "id": 95,
       "name": "EA Guingamp",
       "league": "Ligue 2",
       "stadium": "Stade de Roudourou",
@@ -858,7 +856,7 @@
       "defaultStanding": 15
     },
     {
-      "id": 16,
+      "id": 96,
       "name": "Stade Malherbe Caen",
       "league": "Ligue 2",
       "stadium": "Stade Michel d'Ornano",
@@ -867,7 +865,7 @@
       "defaultStanding": 16
     },
     {
-      "id": 17,
+      "id": 97,
       "name": "Nantes",
       "league": "Ligue 2",
       "stadium": "Stade de la Beaujoire",
@@ -876,7 +874,7 @@
       "defaultStanding": 17
     },
     {
-      "id": 18,
+      "id": 98,
       "name": "Troyes AC",
       "league": "Ligue 2",
       "stadium": "Stade de l'Aube",
@@ -885,7 +883,7 @@
       "defaultStanding": 18
     },
     {
-      "id": 19,
+      "id": 99,
       "name": "Bordeaux",
       "league": "Ligue 2",
       "stadium": "Stade de Bordeaux",
@@ -894,7 +892,7 @@
       "defaultStanding": 19
     },
     {
-      "id": 20,
+      "id": 100,
       "name": "Laval",
       "league": "Ligue 2",
       "stadium": "Stade Francis-Le Basser",

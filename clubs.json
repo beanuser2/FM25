@@ -1001,7 +1001,7 @@
       "trophyHistory": [],
       "defaultStanding": 19
     },
-    {
+ {
       "id": 100,
       "name": "Laval",
       "league": "Ligue 2",
@@ -1010,5 +1010,5 @@
       "trophyHistory": [],
       "defaultStanding": 20
     }
-  ]
-}
+  ]  // Closing the clubs array
+}  // Closing the main object

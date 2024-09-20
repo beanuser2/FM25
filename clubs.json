@@ -1,1 +1,725 @@
-
+{
+  "clubs": [
+    {
+      "id": 1,
+      "name": "Arsenal",
+      "league": "Premier League",
+      "stadium": "Emirates Stadium",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 1
+    },
+    {
+      "id": 2,
+      "name": "Manchester City",
+      "league": "Premier League",
+      "stadium": "Etihad Stadium",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 2
+    },
+    {
+      "id": 3,
+      "name": "Manchester United",
+      "league": "Premier League",
+      "stadium": "Old Trafford",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 3
+    },
+    {
+      "id": 4,
+      "name": "Chelsea",
+      "league": "Premier League",
+      "stadium": "Stamford Bridge",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 4
+    },
+    {
+      "id": 5,
+      "name": "Liverpool",
+      "league": "Premier League",
+      "stadium": "Anfield",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 5
+    },
+    {
+      "id": 6,
+      "name": "Tottenham Hotspur",
+      "league": "Premier League",
+      "stadium": "Tottenham Hotspur Stadium",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 6
+    },
+    {
+      "id": 7,
+      "name": "Newcastle United",
+      "league": "Premier League",
+      "stadium": "St James' Park",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 7
+    },
+    {
+      "id": 8,
+      "name": "Aston Villa",
+      "league": "Premier League",
+      "stadium": "Villa Park",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 8
+    },
+    {
+      "id": 9,
+      "name": "Brighton & Hove Albion",
+      "league": "Premier League",
+      "stadium": "Amex Stadium",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 9
+    },
+    {
+      "id": 10,
+      "name": "Brentford",
+      "league": "Premier League",
+      "stadium": "Brentford Community Stadium",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 10
+    },
+    {
+      "id": 11,
+      "name": "West Ham United",
+      "league": "Premier League",
+      "stadium": "London Stadium",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 11
+    },
+    {
+      "id": 12,
+      "name": "Crystal Palace",
+      "league": "Premier League",
+      "stadium": "Selhurst Park",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 12
+    },
+    {
+      "id": 13,
+      "name": "Wolverhampton Wanderers",
+      "league": "Premier League",
+      "stadium": "Molineux Stadium",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 13
+    },
+    {
+      "id": 14,
+      "name": "Fulham",
+      "league": "Premier League",
+      "stadium": "Craven Cottage",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 14
+    },
+    {
+      "id": 15,
+      "name": "Bournemouth",
+      "league": "Premier League",
+      "stadium": "Vitality Stadium",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 15
+    },
+    {
+      "id": 16,
+      "name": "Nottingham Forest",
+      "league": "Premier League",
+      "stadium": "City Ground",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 16
+    },
+    {
+      "id": 17,
+      "name": "Everton",
+      "league": "Premier League",
+      "stadium": "Goodison Park",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 17
+    },
+    {
+      "id": 18,
+      "name": "Burnley",
+      "league": "Premier League",
+      "stadium": "Turf Moor",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 18
+    },
+    {
+      "id": 19,
+      "name": "Sheffield United",
+      "league": "Premier League",
+      "stadium": "Bramall Lane",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 19
+    },
+    {
+      "id": 20,
+      "name": "Luton Town",
+      "league": "Premier League",
+      "stadium": "Kenilworth Road",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 20
+    },
+    {
+      "id": 21,
+      "name": "Burnley",
+      "league": "EFL Championship",
+      "stadium": "Turf Moor",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 1
+    },
+    {
+      "id": 22,
+      "name": "Sheffield United",
+      "league": "EFL Championship",
+      "stadium": "Bramall Lane",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 2
+    },
+    {
+      "id": 23,
+      "name": "Luton Town",
+      "league": "EFL Championship",
+      "stadium": "Kenilworth Road",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 3
+    },
+    {
+      "id": 24,
+      "name": "West Bromwich Albion",
+      "league": "EFL Championship",
+      "stadium": "The Hawthorns",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 4
+    },
+    {
+      "id": 25,
+      "name": "Middlesbrough",
+      "league": "EFL Championship",
+      "stadium": "Riverside Stadium",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 5
+    },
+    {
+      "id": 26,
+      "name": "Queens Park Rangers",
+      "league": "EFL Championship",
+      "stadium": "Loftus Road",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 6
+    },
+    {
+      "id": 27,
+      "name": "Swansea City",
+      "league": "EFL Championship",
+      "stadium": "Swansea.com Stadium",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 7
+    },
+    {
+      "id": 28,
+      "name": "Norwich City",
+      "league": "EFL Championship",
+      "stadium": "Carrow Road",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 8
+    },
+    {
+      "id": 29,
+      "name": "Cardiff City",
+      "league": "EFL Championship",
+      "stadium": "Cardiff City Stadium",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 9
+    },
+    {
+      "id": 30,
+      "name": "Bristol City",
+      "league": "EFL Championship",
+      "stadium": "Ashton Gate",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 10
+    },
+    {
+      "id": 31,
+      "name": "Coventry City",
+      "league": "EFL Championship",
+      "stadium": "Coventry Building Society Arena",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 11
+    },
+    {
+      "id": 32,
+      "name": "Stoke City",
+      "league": "EFL Championship",
+      "stadium": "Bet365 Stadium",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 12
+    },
+    {
+      "id": 33,
+      "name": "Huddersfield Town",
+      "league": "EFL Championship",
+      "stadium": "John Smith's Stadium",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 13
+    },
+    {
+      "id": 34,
+      "name": "Blackburn Rovers",
+      "league": "EFL Championship",
+      "stadium": "Ewood Park",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 14
+    },
+    {
+      "id": 35,
+      "name": "Millwall",
+      "league": "EFL Championship",
+      "stadium": "The Den",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 15
+    },
+    {
+      "id": 36,
+      "name": "Sunderland",
+      "league": "EFL Championship",
+      "stadium": "Stadium of Light",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 16
+    },
+    {
+      "id": 37,
+      "name": "Rotherham United",
+      "league": "EFL Championship",
+      "stadium": "New York Stadium",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 17
+    },
+    {
+      "id": 38,
+      "name": "Wigan Athletic",
+      "league": "EFL Championship",
+      "stadium": "DW Stadium",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 18
+    },
+    {
+      "id": 39,
+      "name": "Charlton Athletic",
+      "league": "EFL Championship",
+      "stadium": "The Valley",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 19
+    },
+    {
+      "id": 40,
+      "name": "Birmingham City",
+      "league": "EFL Championship",
+      "stadium": "St Andrew's Stadium",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 20
+    },
+    {
+      "id": 41,
+      "name": "Carlisle United",
+      "league": "EFL League Two",
+      "stadium": "Brunton Park",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 1
+    },
+    {
+      "id": 42,
+      "name": "Stockport County",
+      "league": "EFL League Two",
+      "stadium": "Edgeley Park",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 2
+    },
+    {
+      "id": 43,
+      "name": "Salford City",
+      "league": "EFL League Two",
+      "stadium": "Peninsula Stadium",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 3
+    },
+    {
+      "id": 44,
+      "name": "Bradford City",
+      "league": "EFL League Two",
+      "stadium": "Valley Parade",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 4
+    },
+    {
+      "id": 45,
+      "name": "Leyton Orient",
+      "league": "EFL League Two",
+      "stadium": "Brisbane Road",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 5
+    },
+    {
+      "id": 46,
+      "name": "Barrow",
+      "league": "EFL League Two",
+      "stadium": "Holker Street",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 6
+    },
+    {
+      "id": 47,
+      "name": "Grimsby Town",
+      "league": "EFL League Two",
+      "stadium": "Blundell Park",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 7
+    },
+    {
+      "id": 48,
+      "name": "Gillingham",
+      "league": "EFL League Two",
+      "stadium": "Priestfield Stadium",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 8
+    },
+    {
+      "id": 49,
+      "name": "Colchester United",
+      "league": "EFL League Two",
+      "stadium": "JobServe Community Stadium",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 9
+    },
+    {
+      "id": 50,
+      "name": "Sutton United",
+      "league": "EFL League Two",
+      "stadium": "VBS Community Stadium",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 10
+    },
+    {
+      "id": 51,
+      "name": "Swindon Town",
+      "league": "EFL League Two",
+      "stadium": "County Ground",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 11
+    },
+    {
+      "id": 52,
+      "name": "Hartlepool United",
+      "league": "EFL League Two",
+      "stadium": "Victoria Park",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 12
+    },
+    {
+      "id": 53,
+      "name": "Walsall",
+      "league": "EFL League Two",
+      "stadium": "Bescot Stadium",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 13
+    },
+    {
+      "id": 54,
+      "name": "Newport County",
+      "league": "EFL League Two",
+      "stadium": "Rodney Parade",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 14
+    },
+    {
+      "id": 55,
+      "name": "Bradford City",
+      "league": "EFL League Two",
+      "stadium": "Valley Parade",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 15
+    },
+    {
+      "id": 56,
+      "name": "Crewe Alexandra",
+      "league": "EFL League Two",
+      "stadium": "Alexandra Stadium",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 16
+    },
+    {
+      "id": 57,
+      "name": "Exeter City",
+      "league": "EFL League Two",
+      "stadium": "St James Park",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 17
+    },
+    {
+      "id": 58,
+      "name": "Northampton Town",
+      "league": "EFL League Two",
+      "stadium": "Sixfields Stadium",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 18
+    },
+    {
+      "id": 59,
+      "name": "Forest Green Rovers",
+      "league": "EFL League Two",
+      "stadium": "The Bolt New Lawn",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 19
+    },
+    {
+      "id": 60,
+      "name": "Port Vale",
+      "league": "EFL League Two",
+      "stadium": "Vale Park",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 20
+    },
+    {
+      "id": 61,
+      "name": "Paris Saint-Germain",
+      "league": "Ligue 1",
+      "stadium": "Parc des Princes",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 1
+    },
+    {
+      "id": 62,
+      "name": "Olympique de Marseille",
+      "league": "Ligue 1",
+      "stadium": "Stade Vélodrome",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 2
+    },
+    {
+      "id": 63,
+      "name": "AS Monaco",
+      "league": "Ligue 1",
+      "stadium": "Stade Louis II",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 3
+    },
+    {
+      "id": 64,
+      "name": "Lille OSC",
+      "league": "Ligue 1",
+      "stadium": "Stade Pierre-Mauroy",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 4
+    },
+    {
+      "id": 65,
+      "name": "Olympique Lyonnais",
+      "league": "Ligue 1",
+      "stadium": "Groupama Stadium",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 5
+    },
+    {
+      "id": 66,
+      "name": "Stade Rennais",
+      "league": "Ligue 1",
+      "stadium": "Roazhon Park",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 6
+    },
+    {
+      "id": 67,
+      "name": "OGC Nice",
+      "league": "Ligue 1",
+      "stadium": "Allianz Riviera",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 7
+    },
+    {
+      "id": 68,
+      "name": "Montpellier HSC",
+      "league": "Ligue 1",
+      "stadium": "Stade de la Mosson",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 8
+    },
+    {
+      "id": 69,
+      "name": "FC Nantes",
+      "league": "Ligue 1",
+      "stadium": "Stade de la Beaujoire",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 9
+    },
+    {
+      "id": 70,
+      "name": "Toulouse FC",
+      "league": "Ligue 1",
+      "stadium": "Stadium de Toulouse",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 10
+    },
+    {
+      "id": 71,
+      "name": "RC Lens",
+      "league": "Ligue 1",
+      "stadium": "Stade Bollaert-Delelis",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 11
+    },
+    {
+      "id": 72,
+      "name": "RC Strasbourg Alsace",
+      "league": "Ligue 1",
+      "stadium": "Stade de la Meinau",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 12
+    },
+    {
+      "id": 73,
+      "name": "Amiens SC",
+      "league": "Ligue 1",
+      "stadium": "Stade de la Licorne",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 13
+    },
+    {
+      "id": 74,
+      "name": "Clermont Foot 63",
+      "league": "Ligue 1",
+      "stadium": "Stade Gabriel Montpied",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 14
+    },
+    {
+      "id": 75,
+      "name": "Angers SCO",
+      "league": "Ligue 1",
+      "stadium": "Stade Raymond Kopa",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 15
+    },
+    {
+      "id": 76,
+      "name": "ESTAC Troyes",
+      "league": "Ligue 1",
+      "stadium": "Stade de l'Aube",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 16
+    },
+    {
+      "id": 77,
+      "name": "FC Metz",
+      "league": "Ligue 1",
+      "stadium": "Stade Saint-Symphorien",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 17
+    },
+    {
+      "id": 78,
+      "name": "Stade de Reims",
+      "league": "Ligue 1",
+      "stadium": "Stade Auguste Delaune",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 18
+    },
+    {
+      "id": 79,
+      "name": "AC Ajaccio",
+      "league": "Ligue 1",
+      "stadium": "Stade François Coty",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 19
+    },
+    {
+      "id": 80,
+      "name": "Troyes AC",
+      "league": "Ligue 1",
+      "stadium": "Stade de l'Aube",
+      "transferHistory": [],
+      "trophyHistory": [],
+      "defaultStanding": 20
+    }
+    ]
+  }
+}
